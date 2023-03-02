@@ -1,0 +1,15 @@
+C:\Users\aysea\source\repos\DaireninAlani\DaireninAlani\bin\Debug\net6.0\DaireninAlani.exe
+C:\Users\aysea\source\repos\DaireninAlani\DaireninAlani\bin\Debug\net6.0\DaireninAlani.deps.json
+C:\Users\aysea\source\repos\DaireninAlani\DaireninAlani\bin\Debug\net6.0\DaireninAlani.runtimeconfig.json
+C:\Users\aysea\source\repos\DaireninAlani\DaireninAlani\bin\Debug\net6.0\DaireninAlani.dll
+C:\Users\aysea\source\repos\DaireninAlani\DaireninAlani\bin\Debug\net6.0\DaireninAlani.pdb
+C:\Users\aysea\source\repos\DaireninAlani\DaireninAlani\obj\Debug\net6.0\DaireninAlani.csproj.AssemblyReference.cache
+C:\Users\aysea\source\repos\DaireninAlani\DaireninAlani\obj\Debug\net6.0\DaireninAlani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysea\source\repos\DaireninAlani\DaireninAlani\obj\Debug\net6.0\DaireninAlani.AssemblyInfoInputs.cache
+C:\Users\aysea\source\repos\DaireninAlani\DaireninAlani\obj\Debug\net6.0\DaireninAlani.AssemblyInfo.cs
+C:\Users\aysea\source\repos\DaireninAlani\DaireninAlani\obj\Debug\net6.0\DaireninAlani.csproj.CoreCompileInputs.cache
+C:\Users\aysea\source\repos\DaireninAlani\DaireninAlani\obj\Debug\net6.0\DaireninAlani.dll
+C:\Users\aysea\source\repos\DaireninAlani\DaireninAlani\obj\Debug\net6.0\refint\DaireninAlani.dll
+C:\Users\aysea\source\repos\DaireninAlani\DaireninAlani\obj\Debug\net6.0\DaireninAlani.pdb
+C:\Users\aysea\source\repos\DaireninAlani\DaireninAlani\obj\Debug\net6.0\DaireninAlani.genruntimeconfig.cache
+C:\Users\aysea\source\repos\DaireninAlani\DaireninAlani\obj\Debug\net6.0\ref\DaireninAlani.dll

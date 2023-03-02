@@ -1,0 +1,15 @@
+C:\Users\aysea\source\repos\KDVCalculate\KDVCalculate\bin\Debug\net6.0\KDVCalculate.exe
+C:\Users\aysea\source\repos\KDVCalculate\KDVCalculate\bin\Debug\net6.0\KDVCalculate.deps.json
+C:\Users\aysea\source\repos\KDVCalculate\KDVCalculate\bin\Debug\net6.0\KDVCalculate.runtimeconfig.json
+C:\Users\aysea\source\repos\KDVCalculate\KDVCalculate\bin\Debug\net6.0\KDVCalculate.dll
+C:\Users\aysea\source\repos\KDVCalculate\KDVCalculate\bin\Debug\net6.0\KDVCalculate.pdb
+C:\Users\aysea\source\repos\KDVCalculate\KDVCalculate\obj\Debug\net6.0\KDVCalculate.csproj.AssemblyReference.cache
+C:\Users\aysea\source\repos\KDVCalculate\KDVCalculate\obj\Debug\net6.0\KDVCalculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysea\source\repos\KDVCalculate\KDVCalculate\obj\Debug\net6.0\KDVCalculate.AssemblyInfoInputs.cache
+C:\Users\aysea\source\repos\KDVCalculate\KDVCalculate\obj\Debug\net6.0\KDVCalculate.AssemblyInfo.cs
+C:\Users\aysea\source\repos\KDVCalculate\KDVCalculate\obj\Debug\net6.0\KDVCalculate.csproj.CoreCompileInputs.cache
+C:\Users\aysea\source\repos\KDVCalculate\KDVCalculate\obj\Debug\net6.0\KDVCalculate.dll
+C:\Users\aysea\source\repos\KDVCalculate\KDVCalculate\obj\Debug\net6.0\refint\KDVCalculate.dll
+C:\Users\aysea\source\repos\KDVCalculate\KDVCalculate\obj\Debug\net6.0\KDVCalculate.pdb
+C:\Users\aysea\source\repos\KDVCalculate\KDVCalculate\obj\Debug\net6.0\KDVCalculate.genruntimeconfig.cache
+C:\Users\aysea\source\repos\KDVCalculate\KDVCalculate\obj\Debug\net6.0\ref\KDVCalculate.dll

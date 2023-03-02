@@ -1,0 +1,15 @@
+C:\Users\aysea\source\repos\YuzdeHesaplama\YuzdeHesaplama\bin\Debug\net6.0\YuzdeHesaplama.exe
+C:\Users\aysea\source\repos\YuzdeHesaplama\YuzdeHesaplama\bin\Debug\net6.0\YuzdeHesaplama.deps.json
+C:\Users\aysea\source\repos\YuzdeHesaplama\YuzdeHesaplama\bin\Debug\net6.0\YuzdeHesaplama.runtimeconfig.json
+C:\Users\aysea\source\repos\YuzdeHesaplama\YuzdeHesaplama\bin\Debug\net6.0\YuzdeHesaplama.dll
+C:\Users\aysea\source\repos\YuzdeHesaplama\YuzdeHesaplama\bin\Debug\net6.0\YuzdeHesaplama.pdb
+C:\Users\aysea\source\repos\YuzdeHesaplama\YuzdeHesaplama\obj\Debug\net6.0\YuzdeHesaplama.csproj.AssemblyReference.cache
+C:\Users\aysea\source\repos\YuzdeHesaplama\YuzdeHesaplama\obj\Debug\net6.0\YuzdeHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysea\source\repos\YuzdeHesaplama\YuzdeHesaplama\obj\Debug\net6.0\YuzdeHesaplama.AssemblyInfoInputs.cache
+C:\Users\aysea\source\repos\YuzdeHesaplama\YuzdeHesaplama\obj\Debug\net6.0\YuzdeHesaplama.AssemblyInfo.cs
+C:\Users\aysea\source\repos\YuzdeHesaplama\YuzdeHesaplama\obj\Debug\net6.0\YuzdeHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\aysea\source\repos\YuzdeHesaplama\YuzdeHesaplama\obj\Debug\net6.0\YuzdeHesaplama.dll
+C:\Users\aysea\source\repos\YuzdeHesaplama\YuzdeHesaplama\obj\Debug\net6.0\refint\YuzdeHesaplama.dll
+C:\Users\aysea\source\repos\YuzdeHesaplama\YuzdeHesaplama\obj\Debug\net6.0\YuzdeHesaplama.pdb
+C:\Users\aysea\source\repos\YuzdeHesaplama\YuzdeHesaplama\obj\Debug\net6.0\YuzdeHesaplama.genruntimeconfig.cache
+C:\Users\aysea\source\repos\YuzdeHesaplama\YuzdeHesaplama\obj\Debug\net6.0\ref\YuzdeHesaplama.dll

@@ -1,0 +1,15 @@
+C:\Users\aysea\source\repos\PersonelKaydi\PersonelKaydi\obj\Debug\net6.0\PersonelKaydi.csproj.AssemblyReference.cache
+C:\Users\aysea\source\repos\PersonelKaydi\PersonelKaydi\obj\Debug\net6.0\PersonelKaydi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysea\source\repos\PersonelKaydi\PersonelKaydi\obj\Debug\net6.0\PersonelKaydi.AssemblyInfoInputs.cache
+C:\Users\aysea\source\repos\PersonelKaydi\PersonelKaydi\obj\Debug\net6.0\PersonelKaydi.AssemblyInfo.cs
+C:\Users\aysea\source\repos\PersonelKaydi\PersonelKaydi\obj\Debug\net6.0\PersonelKaydi.csproj.CoreCompileInputs.cache
+C:\Users\aysea\source\repos\PersonelKaydi\PersonelKaydi\bin\Debug\net6.0\PersonelKaydi.exe
+C:\Users\aysea\source\repos\PersonelKaydi\PersonelKaydi\bin\Debug\net6.0\PersonelKaydi.deps.json
+C:\Users\aysea\source\repos\PersonelKaydi\PersonelKaydi\bin\Debug\net6.0\PersonelKaydi.runtimeconfig.json
+C:\Users\aysea\source\repos\PersonelKaydi\PersonelKaydi\bin\Debug\net6.0\PersonelKaydi.dll
+C:\Users\aysea\source\repos\PersonelKaydi\PersonelKaydi\bin\Debug\net6.0\PersonelKaydi.pdb
+C:\Users\aysea\source\repos\PersonelKaydi\PersonelKaydi\obj\Debug\net6.0\PersonelKaydi.dll
+C:\Users\aysea\source\repos\PersonelKaydi\PersonelKaydi\obj\Debug\net6.0\refint\PersonelKaydi.dll
+C:\Users\aysea\source\repos\PersonelKaydi\PersonelKaydi\obj\Debug\net6.0\PersonelKaydi.pdb
+C:\Users\aysea\source\repos\PersonelKaydi\PersonelKaydi\obj\Debug\net6.0\PersonelKaydi.genruntimeconfig.cache
+C:\Users\aysea\source\repos\PersonelKaydi\PersonelKaydi\obj\Debug\net6.0\ref\PersonelKaydi.dll

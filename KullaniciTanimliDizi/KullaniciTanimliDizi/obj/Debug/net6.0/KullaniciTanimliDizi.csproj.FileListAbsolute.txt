@@ -1,0 +1,15 @@
+C:\Users\aysea\source\repos\KullaniciTanimliDizi\KullaniciTanimliDizi\bin\Debug\net6.0\KullaniciTanimliDizi.exe
+C:\Users\aysea\source\repos\KullaniciTanimliDizi\KullaniciTanimliDizi\bin\Debug\net6.0\KullaniciTanimliDizi.deps.json
+C:\Users\aysea\source\repos\KullaniciTanimliDizi\KullaniciTanimliDizi\bin\Debug\net6.0\KullaniciTanimliDizi.runtimeconfig.json
+C:\Users\aysea\source\repos\KullaniciTanimliDizi\KullaniciTanimliDizi\bin\Debug\net6.0\KullaniciTanimliDizi.dll
+C:\Users\aysea\source\repos\KullaniciTanimliDizi\KullaniciTanimliDizi\bin\Debug\net6.0\KullaniciTanimliDizi.pdb
+C:\Users\aysea\source\repos\KullaniciTanimliDizi\KullaniciTanimliDizi\obj\Debug\net6.0\KullaniciTanimliDizi.csproj.AssemblyReference.cache
+C:\Users\aysea\source\repos\KullaniciTanimliDizi\KullaniciTanimliDizi\obj\Debug\net6.0\KullaniciTanimliDizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysea\source\repos\KullaniciTanimliDizi\KullaniciTanimliDizi\obj\Debug\net6.0\KullaniciTanimliDizi.AssemblyInfoInputs.cache
+C:\Users\aysea\source\repos\KullaniciTanimliDizi\KullaniciTanimliDizi\obj\Debug\net6.0\KullaniciTanimliDizi.AssemblyInfo.cs
+C:\Users\aysea\source\repos\KullaniciTanimliDizi\KullaniciTanimliDizi\obj\Debug\net6.0\KullaniciTanimliDizi.csproj.CoreCompileInputs.cache
+C:\Users\aysea\source\repos\KullaniciTanimliDizi\KullaniciTanimliDizi\obj\Debug\net6.0\KullaniciTanimliDizi.dll
+C:\Users\aysea\source\repos\KullaniciTanimliDizi\KullaniciTanimliDizi\obj\Debug\net6.0\refint\KullaniciTanimliDizi.dll
+C:\Users\aysea\source\repos\KullaniciTanimliDizi\KullaniciTanimliDizi\obj\Debug\net6.0\KullaniciTanimliDizi.pdb
+C:\Users\aysea\source\repos\KullaniciTanimliDizi\KullaniciTanimliDizi\obj\Debug\net6.0\KullaniciTanimliDizi.genruntimeconfig.cache
+C:\Users\aysea\source\repos\KullaniciTanimliDizi\KullaniciTanimliDizi\obj\Debug\net6.0\ref\KullaniciTanimliDizi.dll

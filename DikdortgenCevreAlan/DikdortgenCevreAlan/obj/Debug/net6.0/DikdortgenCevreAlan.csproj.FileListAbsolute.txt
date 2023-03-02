@@ -1,0 +1,15 @@
+C:\Users\aysea\source\repos\DikdortgenCevreAlan\DikdortgenCevreAlan\bin\Debug\net6.0\DikdortgenCevreAlan.exe
+C:\Users\aysea\source\repos\DikdortgenCevreAlan\DikdortgenCevreAlan\bin\Debug\net6.0\DikdortgenCevreAlan.deps.json
+C:\Users\aysea\source\repos\DikdortgenCevreAlan\DikdortgenCevreAlan\bin\Debug\net6.0\DikdortgenCevreAlan.runtimeconfig.json
+C:\Users\aysea\source\repos\DikdortgenCevreAlan\DikdortgenCevreAlan\bin\Debug\net6.0\DikdortgenCevreAlan.dll
+C:\Users\aysea\source\repos\DikdortgenCevreAlan\DikdortgenCevreAlan\bin\Debug\net6.0\DikdortgenCevreAlan.pdb
+C:\Users\aysea\source\repos\DikdortgenCevreAlan\DikdortgenCevreAlan\obj\Debug\net6.0\DikdortgenCevreAlan.csproj.AssemblyReference.cache
+C:\Users\aysea\source\repos\DikdortgenCevreAlan\DikdortgenCevreAlan\obj\Debug\net6.0\DikdortgenCevreAlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysea\source\repos\DikdortgenCevreAlan\DikdortgenCevreAlan\obj\Debug\net6.0\DikdortgenCevreAlan.AssemblyInfoInputs.cache
+C:\Users\aysea\source\repos\DikdortgenCevreAlan\DikdortgenCevreAlan\obj\Debug\net6.0\DikdortgenCevreAlan.AssemblyInfo.cs
+C:\Users\aysea\source\repos\DikdortgenCevreAlan\DikdortgenCevreAlan\obj\Debug\net6.0\DikdortgenCevreAlan.csproj.CoreCompileInputs.cache
+C:\Users\aysea\source\repos\DikdortgenCevreAlan\DikdortgenCevreAlan\obj\Debug\net6.0\DikdortgenCevreAlan.dll
+C:\Users\aysea\source\repos\DikdortgenCevreAlan\DikdortgenCevreAlan\obj\Debug\net6.0\refint\DikdortgenCevreAlan.dll
+C:\Users\aysea\source\repos\DikdortgenCevreAlan\DikdortgenCevreAlan\obj\Debug\net6.0\DikdortgenCevreAlan.pdb
+C:\Users\aysea\source\repos\DikdortgenCevreAlan\DikdortgenCevreAlan\obj\Debug\net6.0\DikdortgenCevreAlan.genruntimeconfig.cache
+C:\Users\aysea\source\repos\DikdortgenCevreAlan\DikdortgenCevreAlan\obj\Debug\net6.0\ref\DikdortgenCevreAlan.dll

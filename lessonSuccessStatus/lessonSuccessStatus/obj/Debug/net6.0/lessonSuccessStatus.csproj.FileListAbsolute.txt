@@ -1,0 +1,15 @@
+C:\Users\aysea\source\repos\lessonSuccessStatus\lessonSuccessStatus\bin\Debug\net6.0\lessonSuccessStatus.exe
+C:\Users\aysea\source\repos\lessonSuccessStatus\lessonSuccessStatus\bin\Debug\net6.0\lessonSuccessStatus.deps.json
+C:\Users\aysea\source\repos\lessonSuccessStatus\lessonSuccessStatus\bin\Debug\net6.0\lessonSuccessStatus.runtimeconfig.json
+C:\Users\aysea\source\repos\lessonSuccessStatus\lessonSuccessStatus\bin\Debug\net6.0\lessonSuccessStatus.dll
+C:\Users\aysea\source\repos\lessonSuccessStatus\lessonSuccessStatus\bin\Debug\net6.0\lessonSuccessStatus.pdb
+C:\Users\aysea\source\repos\lessonSuccessStatus\lessonSuccessStatus\obj\Debug\net6.0\lessonSuccessStatus.csproj.AssemblyReference.cache
+C:\Users\aysea\source\repos\lessonSuccessStatus\lessonSuccessStatus\obj\Debug\net6.0\lessonSuccessStatus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysea\source\repos\lessonSuccessStatus\lessonSuccessStatus\obj\Debug\net6.0\lessonSuccessStatus.AssemblyInfoInputs.cache
+C:\Users\aysea\source\repos\lessonSuccessStatus\lessonSuccessStatus\obj\Debug\net6.0\lessonSuccessStatus.AssemblyInfo.cs
+C:\Users\aysea\source\repos\lessonSuccessStatus\lessonSuccessStatus\obj\Debug\net6.0\lessonSuccessStatus.csproj.CoreCompileInputs.cache
+C:\Users\aysea\source\repos\lessonSuccessStatus\lessonSuccessStatus\obj\Debug\net6.0\lessonSuccessStatus.dll
+C:\Users\aysea\source\repos\lessonSuccessStatus\lessonSuccessStatus\obj\Debug\net6.0\refint\lessonSuccessStatus.dll
+C:\Users\aysea\source\repos\lessonSuccessStatus\lessonSuccessStatus\obj\Debug\net6.0\lessonSuccessStatus.pdb
+C:\Users\aysea\source\repos\lessonSuccessStatus\lessonSuccessStatus\obj\Debug\net6.0\lessonSuccessStatus.genruntimeconfig.cache
+C:\Users\aysea\source\repos\lessonSuccessStatus\lessonSuccessStatus\obj\Debug\net6.0\ref\lessonSuccessStatus.dll
