@@ -1,0 +1,15 @@
+C:\Users\aysea\source\repos\BasicOtomasyonSistemi\BasicOtomasyonSistemi\bin\Debug\net6.0\BasicOtomasyonSistemi.exe
+C:\Users\aysea\source\repos\BasicOtomasyonSistemi\BasicOtomasyonSistemi\bin\Debug\net6.0\BasicOtomasyonSistemi.deps.json
+C:\Users\aysea\source\repos\BasicOtomasyonSistemi\BasicOtomasyonSistemi\bin\Debug\net6.0\BasicOtomasyonSistemi.runtimeconfig.json
+C:\Users\aysea\source\repos\BasicOtomasyonSistemi\BasicOtomasyonSistemi\bin\Debug\net6.0\BasicOtomasyonSistemi.dll
+C:\Users\aysea\source\repos\BasicOtomasyonSistemi\BasicOtomasyonSistemi\bin\Debug\net6.0\BasicOtomasyonSistemi.pdb
+C:\Users\aysea\source\repos\BasicOtomasyonSistemi\BasicOtomasyonSistemi\obj\Debug\net6.0\BasicOtomasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\aysea\source\repos\BasicOtomasyonSistemi\BasicOtomasyonSistemi\obj\Debug\net6.0\BasicOtomasyonSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysea\source\repos\BasicOtomasyonSistemi\BasicOtomasyonSistemi\obj\Debug\net6.0\BasicOtomasyonSistemi.AssemblyInfoInputs.cache
+C:\Users\aysea\source\repos\BasicOtomasyonSistemi\BasicOtomasyonSistemi\obj\Debug\net6.0\BasicOtomasyonSistemi.AssemblyInfo.cs
+C:\Users\aysea\source\repos\BasicOtomasyonSistemi\BasicOtomasyonSistemi\obj\Debug\net6.0\BasicOtomasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\aysea\source\repos\BasicOtomasyonSistemi\BasicOtomasyonSistemi\obj\Debug\net6.0\BasicOtomasyonSistemi.dll
+C:\Users\aysea\source\repos\BasicOtomasyonSistemi\BasicOtomasyonSistemi\obj\Debug\net6.0\refint\BasicOtomasyonSistemi.dll
+C:\Users\aysea\source\repos\BasicOtomasyonSistemi\BasicOtomasyonSistemi\obj\Debug\net6.0\BasicOtomasyonSistemi.pdb
+C:\Users\aysea\source\repos\BasicOtomasyonSistemi\BasicOtomasyonSistemi\obj\Debug\net6.0\BasicOtomasyonSistemi.genruntimeconfig.cache
+C:\Users\aysea\source\repos\BasicOtomasyonSistemi\BasicOtomasyonSistemi\obj\Debug\net6.0\ref\BasicOtomasyonSistemi.dll
