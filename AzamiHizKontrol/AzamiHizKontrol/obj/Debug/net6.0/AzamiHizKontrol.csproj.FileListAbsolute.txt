@@ -1,0 +1,15 @@
+C:\Users\aysea\source\repos\AzamiHizKontrol\AzamiHizKontrol\bin\Debug\net6.0\AzamiHizKontrol.exe
+C:\Users\aysea\source\repos\AzamiHizKontrol\AzamiHizKontrol\bin\Debug\net6.0\AzamiHizKontrol.deps.json
+C:\Users\aysea\source\repos\AzamiHizKontrol\AzamiHizKontrol\bin\Debug\net6.0\AzamiHizKontrol.runtimeconfig.json
+C:\Users\aysea\source\repos\AzamiHizKontrol\AzamiHizKontrol\bin\Debug\net6.0\AzamiHizKontrol.dll
+C:\Users\aysea\source\repos\AzamiHizKontrol\AzamiHizKontrol\bin\Debug\net6.0\AzamiHizKontrol.pdb
+C:\Users\aysea\source\repos\AzamiHizKontrol\AzamiHizKontrol\obj\Debug\net6.0\AzamiHizKontrol.csproj.AssemblyReference.cache
+C:\Users\aysea\source\repos\AzamiHizKontrol\AzamiHizKontrol\obj\Debug\net6.0\AzamiHizKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysea\source\repos\AzamiHizKontrol\AzamiHizKontrol\obj\Debug\net6.0\AzamiHizKontrol.AssemblyInfoInputs.cache
+C:\Users\aysea\source\repos\AzamiHizKontrol\AzamiHizKontrol\obj\Debug\net6.0\AzamiHizKontrol.AssemblyInfo.cs
+C:\Users\aysea\source\repos\AzamiHizKontrol\AzamiHizKontrol\obj\Debug\net6.0\AzamiHizKontrol.csproj.CoreCompileInputs.cache
+C:\Users\aysea\source\repos\AzamiHizKontrol\AzamiHizKontrol\obj\Debug\net6.0\AzamiHizKontrol.dll
+C:\Users\aysea\source\repos\AzamiHizKontrol\AzamiHizKontrol\obj\Debug\net6.0\refint\AzamiHizKontrol.dll
+C:\Users\aysea\source\repos\AzamiHizKontrol\AzamiHizKontrol\obj\Debug\net6.0\AzamiHizKontrol.pdb
+C:\Users\aysea\source\repos\AzamiHizKontrol\AzamiHizKontrol\obj\Debug\net6.0\AzamiHizKontrol.genruntimeconfig.cache
+C:\Users\aysea\source\repos\AzamiHizKontrol\AzamiHizKontrol\obj\Debug\net6.0\ref\AzamiHizKontrol.dll
