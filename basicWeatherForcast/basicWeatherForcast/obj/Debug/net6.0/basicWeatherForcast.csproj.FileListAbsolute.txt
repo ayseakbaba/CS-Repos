@@ -1,0 +1,15 @@
+C:\Users\aysea\source\repos\basicWeatherForcast\basicWeatherForcast\bin\Debug\net6.0\basicWeatherForcast.exe
+C:\Users\aysea\source\repos\basicWeatherForcast\basicWeatherForcast\bin\Debug\net6.0\basicWeatherForcast.deps.json
+C:\Users\aysea\source\repos\basicWeatherForcast\basicWeatherForcast\bin\Debug\net6.0\basicWeatherForcast.runtimeconfig.json
+C:\Users\aysea\source\repos\basicWeatherForcast\basicWeatherForcast\bin\Debug\net6.0\basicWeatherForcast.dll
+C:\Users\aysea\source\repos\basicWeatherForcast\basicWeatherForcast\bin\Debug\net6.0\basicWeatherForcast.pdb
+C:\Users\aysea\source\repos\basicWeatherForcast\basicWeatherForcast\obj\Debug\net6.0\basicWeatherForcast.csproj.AssemblyReference.cache
+C:\Users\aysea\source\repos\basicWeatherForcast\basicWeatherForcast\obj\Debug\net6.0\basicWeatherForcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysea\source\repos\basicWeatherForcast\basicWeatherForcast\obj\Debug\net6.0\basicWeatherForcast.AssemblyInfoInputs.cache
+C:\Users\aysea\source\repos\basicWeatherForcast\basicWeatherForcast\obj\Debug\net6.0\basicWeatherForcast.AssemblyInfo.cs
+C:\Users\aysea\source\repos\basicWeatherForcast\basicWeatherForcast\obj\Debug\net6.0\basicWeatherForcast.csproj.CoreCompileInputs.cache
+C:\Users\aysea\source\repos\basicWeatherForcast\basicWeatherForcast\obj\Debug\net6.0\basicWeatherForcast.dll
+C:\Users\aysea\source\repos\basicWeatherForcast\basicWeatherForcast\obj\Debug\net6.0\refint\basicWeatherForcast.dll
+C:\Users\aysea\source\repos\basicWeatherForcast\basicWeatherForcast\obj\Debug\net6.0\basicWeatherForcast.pdb
+C:\Users\aysea\source\repos\basicWeatherForcast\basicWeatherForcast\obj\Debug\net6.0\basicWeatherForcast.genruntimeconfig.cache
+C:\Users\aysea\source\repos\basicWeatherForcast\basicWeatherForcast\obj\Debug\net6.0\ref\basicWeatherForcast.dll

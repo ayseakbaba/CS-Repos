@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vfp3CurIDzFwpBpG2MEujEBHAlMlwx79De34diWxMLQ6HCKZMDdVeTzgIxEv2xPVzXUxvVXLH9VQ/5g/IoZrew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aysea\\source\\repos\\restSharpDemoGET\\restSharpDemoGET\\restSharpDemoGET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aysea\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

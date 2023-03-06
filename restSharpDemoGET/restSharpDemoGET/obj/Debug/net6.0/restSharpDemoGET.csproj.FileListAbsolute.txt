@@ -1,0 +1,17 @@
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\bin\Debug\net6.0\restSharpDemoGET.exe
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\bin\Debug\net6.0\restSharpDemoGET.deps.json
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\bin\Debug\net6.0\restSharpDemoGET.runtimeconfig.json
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\bin\Debug\net6.0\restSharpDemoGET.dll
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\bin\Debug\net6.0\restSharpDemoGET.pdb
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\bin\Debug\net6.0\RestSharp.dll
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\obj\Debug\net6.0\restSharpDemoGET.csproj.AssemblyReference.cache
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\obj\Debug\net6.0\restSharpDemoGET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\obj\Debug\net6.0\restSharpDemoGET.AssemblyInfoInputs.cache
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\obj\Debug\net6.0\restSharpDemoGET.AssemblyInfo.cs
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\obj\Debug\net6.0\restSharpDemoGET.csproj.CoreCompileInputs.cache
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\obj\Debug\net6.0\restSharpDemoGET.csproj.CopyComplete
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\obj\Debug\net6.0\restSharpDemoGET.dll
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\obj\Debug\net6.0\refint\restSharpDemoGET.dll
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\obj\Debug\net6.0\restSharpDemoGET.pdb
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\obj\Debug\net6.0\restSharpDemoGET.genruntimeconfig.cache
+C:\Users\aysea\source\repos\restSharpDemoGET\restSharpDemoGET\obj\Debug\net6.0\ref\restSharpDemoGET.dll
