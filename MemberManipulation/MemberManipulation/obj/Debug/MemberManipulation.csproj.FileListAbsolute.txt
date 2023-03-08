@@ -1,0 +1,17 @@
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\obj\Debug\MemberManipulation.csproj.AssemblyReference.cache
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\obj\Debug\MemberManipulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\obj\Debug\MemberManipulation.csproj.CoreCompileInputs.cache
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\bin\Debug\MemberManipulation.exe.config
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\bin\Debug\MemberManipulation.exe
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\bin\Debug\MemberManipulation.pdb
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\bin\Debug\EntityFramework.dll
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\bin\Debug\System.Data.SQLite.dll
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\bin\Debug\EntityFramework.xml
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\bin\Debug\System.Data.SQLite.xml
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\obj\Debug\MemberManipulation.csproj.CopyComplete
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\obj\Debug\MemberManipulation.exe
+C:\Users\aysea\source\repos\MemberManipulation\MemberManipulation\obj\Debug\MemberManipulation.pdb
