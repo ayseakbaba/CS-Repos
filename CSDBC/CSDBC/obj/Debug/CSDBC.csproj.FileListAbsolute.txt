@@ -1,0 +1,11 @@
+C:\Users\aysea\source\repos\CSDBC\CSDBC\bin\Debug\CSDBC.exe.config
+C:\Users\aysea\source\repos\CSDBC\CSDBC\bin\Debug\CSDBC.exe
+C:\Users\aysea\source\repos\CSDBC\CSDBC\bin\Debug\CSDBC.pdb
+C:\Users\aysea\source\repos\CSDBC\CSDBC\bin\Debug\System.Data.SQLite.dll
+C:\Users\aysea\source\repos\CSDBC\CSDBC\bin\Debug\System.Data.SQLite.xml
+C:\Users\aysea\source\repos\CSDBC\CSDBC\obj\Debug\CSDBC.csproj.AssemblyReference.cache
+C:\Users\aysea\source\repos\CSDBC\CSDBC\obj\Debug\CSDBC.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysea\source\repos\CSDBC\CSDBC\obj\Debug\CSDBC.csproj.CoreCompileInputs.cache
+C:\Users\aysea\source\repos\CSDBC\CSDBC\obj\Debug\CSDBC.csproj.CopyComplete
+C:\Users\aysea\source\repos\CSDBC\CSDBC\obj\Debug\CSDBC.exe
+C:\Users\aysea\source\repos\CSDBC\CSDBC\obj\Debug\CSDBC.pdb

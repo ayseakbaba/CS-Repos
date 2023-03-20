@@ -1,0 +1,12 @@
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.Data\bin\Debug\net6.0\StudentInformation.Data.deps.json
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.Data\bin\Debug\net6.0\StudentInformation.Data.dll
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.Data\bin\Debug\net6.0\StudentInformation.Data.pdb
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.Data\obj\Debug\net6.0\StudentInformation.Data.csproj.AssemblyReference.cache
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.Data\obj\Debug\net6.0\StudentInformation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.Data\obj\Debug\net6.0\StudentInformation.Data.AssemblyInfoInputs.cache
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.Data\obj\Debug\net6.0\StudentInformation.Data.AssemblyInfo.cs
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.Data\obj\Debug\net6.0\StudentInformation.Data.csproj.CoreCompileInputs.cache
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.Data\obj\Debug\net6.0\StudentInformation.Data.dll
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.Data\obj\Debug\net6.0\refint\StudentInformation.Data.dll
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.Data\obj\Debug\net6.0\StudentInformation.Data.pdb
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.Data\obj\Debug\net6.0\ref\StudentInformation.Data.dll

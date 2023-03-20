@@ -1,0 +1,17 @@
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\bin\Debug\net6.0\StudentInformation.DataAccess.deps.json
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\bin\Debug\net6.0\StudentInformation.DataAccess.runtimeconfig.json
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\bin\Debug\net6.0\StudentInformation.DataAccess.dll
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\bin\Debug\net6.0\StudentInformation.DataAccess.pdb
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\bin\Debug\net6.0\StudentInformation.Data.dll
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\bin\Debug\net6.0\StudentInformation.Data.pdb
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\obj\Debug\net6.0\StudentInformation.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\obj\Debug\net6.0\StudentInformation.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\obj\Debug\net6.0\StudentInformation.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\obj\Debug\net6.0\StudentInformation.DataAccess.AssemblyInfo.cs
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\obj\Debug\net6.0\StudentInformation.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\obj\Debug\net6.0\StudentInformation.DataAccess.csproj.CopyComplete
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\obj\Debug\net6.0\StudentInformation.DataAccess.dll
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\obj\Debug\net6.0\refint\StudentInformation.DataAccess.dll
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\obj\Debug\net6.0\StudentInformation.DataAccess.pdb
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\obj\Debug\net6.0\StudentInformation.DataAccess.genruntimeconfig.cache
+C:\Users\aysea\source\repos\StudentInformation.API\StudentInformation.DataAccess\obj\Debug\net6.0\ref\StudentInformation.DataAccess.dll
